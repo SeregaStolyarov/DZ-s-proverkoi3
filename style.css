@@ -8,7 +8,7 @@
     outline: 1px solid red; /* чтобы контейнер был виден, в конце можно будет удалить это св-во */
     margin: 0 auto;
     width: 100%;
-    max-width: 1440px;
+    max-width: 1140px;
     /* 📍 Максимальная ширина для контейнера */
 }
 
@@ -34,7 +34,7 @@ header span {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    align-items: center;
     /* 📍 Свойства flexbox для размещения container-a вертикально по центру */
 }
 
@@ -45,7 +45,7 @@ header span {
 }
 
 .text-wrapper {
-    max-width: 1440px;
+    max-width: 1140px;
     /* 📍 Cвойство для ограничения ширины блока с текстом в первой секции */
 }
 
