@@ -45,7 +45,7 @@ header span {
 }
 
 .text-wrapper {
-    max-width: 1140px;
+    max-width: 425px;
     /* 📍 Cвойство для ограничения ширины блока с текстом в первой секции */
 }
 
